@@ -1,2 +1,0 @@
-this is story 2.
-this is created on master branch.
